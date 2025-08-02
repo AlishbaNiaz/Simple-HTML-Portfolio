@@ -1,41 +1,38 @@
-# Simple HTML Portfolio
+# Simple HTML Portfolio - Alishba Niaz
 
-This is a simple personal portfolio website created using **HTML** (and a bit of CSS if applied).  
-It is made for **practice purposes** to improve my front-end development skills.
+This is a basic personal portfolio website created using **HTML** only.  
+It was made for **practice purposes** to enhance my web development skills.
 
 ---
 
 ## Features
-- **Home Section** – A short introduction about me.
-- **Projects Section** – Showcase of my sample work.
-- **Contact Section** – Basic contact details or form.
-- Simple and clean design.
+- **Introduction** – My name and a short personal tagline.
+- **Profile Picture** – Simple image for personal branding.
+- **Education** – Highlights of my academic background.
+- **Skills** – Technical skills including HTML, CSS, JavaScript, and React (basic).
+- **Hobbies** – A few personal interests.
+- **Contact** – Email and LinkedIn profile link.
 
 ---
 
 ## Technologies Used
 - **HTML5**
-- *(Optional)* CSS3 (if used)
 
 ---
 
 ## How to View
-1. Clone or download this repository.
-2. Open the `index.html` file in your browser.
-
----
-
-## Purpose
-The purpose of this project is to practice basic HTML and build confidence in creating simple static websites.
+1. Download or clone this repository.
+2. Open `index.html` in any web browser.
 
 ---
 
 ## Future Improvements
-- Add CSS for better styling.
-- Add JavaScript for interactivity.
-- Make it mobile responsive.
+- Add **CSS** for styling.
+- Add **JavaScript** for interactivity.
+- Make it **responsive** for mobile devices.
+- Deploy it using **GitHub Pages**.
 
 ---
 
 ## License
-This project is for **educational & personal practice purposes only**.
+This project is for **personal learning and practice purposes only**.
